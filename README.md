@@ -132,14 +132,14 @@ WinFast Pro X is **completely free** and always will be. Development is funded e
 
 <div align="center">
 
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%E2%98%95%20Donate-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=000000)](https://buymeacoffee.com/baldisoft)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%E2%98%95%20Donate-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=000000)](https://buymeacoffee.com/fbaldi)
 
 </div>
 
 **As a thank-you for any donation**, you'll receive a **free full license for Studio One AV** — the developer's professional Windows security suite featuring:
 - 🛡 Real-time antivirus (ClamAV + YARA-X engines)
 - 🌐 Multi-country VPN
-- 🔒 Anonymous TOR browsing
+- 🔒 Anonymous VPN + TOR browsing
 - 🧱 Intelligent firewall
 
 Valid for **12 months on 2 devices** — a value greater than the minimum donation. The license will be sent to your email within 24 hours of donation verification.
