@@ -1,0 +1,137 @@
+WinFast Pro X — FREEWARE LICENSE
+=================================
+
+Copyright © 2026 Francesco Baldi — Studio One Informatica
+All rights reserved.
+
+
+TERMS OF USE
+------------
+
+WinFast Pro X ("the Software") is distributed free of charge ("freeware")
+and may be used by anyone — individuals, families, professionals, small
+businesses, organizations and educational institutions — on any number of
+personal computers, with no restrictions on purpose of use.
+
+Use of the Software implies full acceptance of the following terms.
+
+
+PERMITTED USE
+-------------
+
+You are free to:
+
+ 1. Install and run the Software on any Windows computer.
+ 2. Use the Software for personal, professional or business purposes.
+ 3. Make backup copies of the Software for personal use.
+ 4. Share the original, unmodified installation package freely, provided
+    that all copyright notices, this license and all references to the
+    author remain intact.
+
+
+NOT PERMITTED
+-------------
+
+The following actions are expressly prohibited:
+
+ 1. Modifying, decompiling, reverse engineering, disassembling or
+    extracting any part of the Software.
+ 2. Removing, altering or obscuring copyright notices, author names,
+    trademarks or references to the official website.
+ 3. Redistributing modified or derivative versions of the Software.
+ 4. Distributing the Software as part of paid packages, commercial
+    bundles, subscriptions or fee-based services.
+ 5. Claiming authorship or misrepresenting the origin of the Software.
+
+
+DISCLAIMER OF WARRANTIES
+-------------------------
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.
+
+The author does not warrant that the Software is error-free, that its
+operation will be uninterrupted, or that it will meet any specific
+requirements of the user.
+
+
+LIMITATION OF LIABILITY
+------------------------
+
+WinFast Pro X applies low-level modifications to the Windows operating
+system: registry, services, power plans, network parameters, GPU priorities,
+scheduling and telemetry settings. These modifications are designed to be
+safe and reversible.
+
+BEFORE applying any tweak, the Software automatically creates a Windows
+System Restore Point and records the previous state of every operation in
+a history file, enabling granular rollback at any time.
+
+NEVERTHELESS, IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY DIRECT,
+INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY OR CONSEQUENTIAL DAMAGES
+(INCLUDING BUT NOT LIMITED TO DATA LOSS, BUSINESS INTERRUPTION, LOST
+PROFITS OR OTHER PECUNIARY LOSSES) ARISING FROM THE USE OR INABILITY TO
+USE THE SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+The user accepts full responsibility for using the Software and agrees to
+create a full system backup before applying significant changes.
+
+
+PRIVACY AND TELEMETRY
+---------------------
+
+WinFast Pro X does not collect, send or transmit any personal data,
+device identifiers, usage information or telemetry of any kind to any
+remote server. All processing — including the Smart Advisor — runs
+exclusively on the user's local device. The Software requires no account,
+login or registration.
+
+The latency monitor performs ICMP ping requests to public hosts chosen by
+the user (default: well-known gaming servers and Cloudflare/Google DNS)
+solely for the purpose of measuring connection quality.
+
+The donation feature sends only the email address voluntarily provided
+by the user to the developer, for the sole purpose of delivering the
+promised gift. This address is never shared with third parties or used
+for marketing.
+
+
+DONATIONS AND DONOR GIFTS
+--------------------------
+
+The Software is and will remain free. Voluntary donations via the official
+Buy Me a Coffee channel are warmly welcomed and directly support continued
+development.
+
+As a thank-you, donors who complete a donation will receive — automatically
+or upon request — a gift of equal or greater value: a full license for
+Studio One AV, the developer's professional Windows security suite
+(antivirus, VPN, TOR browsing, integrated firewall), valid for 12 months
+on 2 devices.
+
+Donations do not constitute a purchase of the Software, do not grant any
+additional rights over the Software itself, and do not alter the terms of
+this license.
+
+
+GOVERNING LAW
+-------------
+
+This license is governed by Italian law. Any dispute arising from the use
+of the Software shall be subject to the exclusive jurisdiction of the
+Court of Florence, Italy.
+
+
+CONTACTS
+--------
+
+Author:    Francesco Baldi
+Studio:    Studio One Informatica Soc. Coop. a.r.l.
+Website:   https://www.studio1informatica.it
+GitHub:    https://github.com/fra77-byte
+Donations: https://buymeacoffee.com/baldisoft
+Email:     francesco@studio1informatica.it
+
+
+License version: 2.0 — 2026
