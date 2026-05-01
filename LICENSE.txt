@@ -129,8 +129,8 @@ CONTACTS
 Author:    Francesco Baldi
 Studio:    Studio One Informatica Soc. Coop. a.r.l.
 Website:   https://www.studio1informatica.it
-GitHub:    https://github.com/fra77-byte
-Donations: https://buymeacoffee.com/baldisoft
+GitHub:    https://github.com/StudioOne-IT
+Donations: https://buymeacoffee.com/fbaldi
 Email:     francesco@studio1informatica.it
 
 
