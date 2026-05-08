@@ -139,17 +139,17 @@ One-click installation of the best free Windows tools:
 
 <div align="center">
 
-| Dashboard & System Info | Gaming Mode |
+| Software Installer | Gaming Mode |
 |:---:|:---:|
-| ![Sistema](screenshot/sistema.png) | ![Gaming](screenshot/game-mode.png) |
+| ![Software](screenshot/software.png) | ![Gaming](screenshot/game-mode.png) |
 
 | Xbox Platform Hub | Network Optimizer |
 |:---:|:---:|
 | ![Xbox](screenshot/xbox_mode.png) | ![Network](screenshot/network.png) |
 
-| Software Installer |
+| Dashboard & System Info |
 |:---:|
-| ![Software](screenshot/software.png) |
+| ![Sistema](screenshot/sistema.png) |
 
 </div>
 
