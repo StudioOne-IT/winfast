@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/icons/logo_winfastprox.png" width="full" alt="WinFast Pro X Logo"/>
+<img src="assets/icons/logo_winfastprox.png" width="50%" alt="WinFast Pro X Logo"/>
 
 # WinFast Pro X
 
