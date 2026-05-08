@@ -387,7 +387,7 @@ Other projects:
 - **[Studio One AV](https://www.studio1informatica.it)** — Windows antivirus with multi-country VPN and TOR browsing
 - **ProGest** — Web ERP platform for the Italian market
 
-🌐 [studio1informatica.it](https://www.studio1informatica.it) · 📧 [francesco@studio1informatica.it](mailto:francesco@studio1informatica.it) · 🐙 [GitHub](https://github.com/fra77-byte)
+🌐 [studio1informatica.it](https://www.studio1informatica.it) · 📧 [francesco@studio1informatica.it](mailto:francesco@studio1informatica.it) · 🐙 [GitHub](https://github.com/StudioOne-IT)
 
 ---
 
