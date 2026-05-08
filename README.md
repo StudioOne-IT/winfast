@@ -14,7 +14,7 @@
 [![Made in Italy](https://img.shields.io/badge/Made%20in-Italy%20🇮🇹-009246?style=flat-square)](https://www.studio1informatica.it)
 [![Buy Me a Coffee](https://img.shields.io/badge/Support-Buy%20me%20a%20coffee%20☕-FFDD00?style=flat-square)](https://buymeacoffee.com/fbaldi)
 
-[⬇️ Download](#-download) • [✨ Features](#-features) • [📸 Screenshots](#-screenshots) • [🧬 Tweak Library](#-complete-tweak-library) • [❓ FAQ](#-faq) • [☕ Donate](#-support-the-project)
+[✨ Features](#-features) • [📸 Screenshots](#-screenshots) • [🧬 Tweak Library](#-complete-tweak-library) • [❓ FAQ](#-faq) • [☕ Donate](#-support-the-project)
 
 ---
 
