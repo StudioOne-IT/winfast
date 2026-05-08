@@ -261,7 +261,7 @@ Installazione in un click dei migliori tool gratuiti per Windows:
 - Windows 10 v2004 (build 19041) o successivo — Windows 11 consigliato
 - Processore 64-bit (x64)
 - Diritti di Amministratore (richiesti per applicare le ottimizzazioni)
-- Connessione internet opzionale
+- Connessione internet opzionale (necessaria per analisi IA)
 
 **Installazione:**
 1. Scarica l'installer
