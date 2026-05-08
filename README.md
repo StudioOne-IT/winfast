@@ -283,7 +283,7 @@ One-click installation of the best free Windows tools:
 
 <div align="center">
 
-### ➡️ [Download WinFast Pro X v2.2.0](https://github.com/StudioOne-IT/winfast/releases/latest)
+### ➡️ [Download WinFast Pro X v2.2.0](https://www.studio1informatica.it/soft/WinFastProX_Setup_2.2.0.exe)
 
 `WinFastProX_Setup_2.2.0.exe` · Windows 10/11 · 64-bit · ~25 MB · Free
 
