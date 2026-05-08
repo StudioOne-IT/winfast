@@ -6,15 +6,15 @@
 
 ### 🚀 Next-Gen Windows Performance & Gaming Suite
 
-**Free. Open. No accounts. No telemetry. No tricks.**
+**Free. Freeware. No accounts. No telemetry. No tricks.**
 
-[![Release](https://img.shields.io/github/v/release/fra77-byte/WinFastProX?color=0078D4&label=Latest%20Release&style=flat-square)](https://github.com/fra77-byte/WinFastProX/releases)
-[![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-0078D4?style=flat-square&logo=windows&logoColor=white)](https://github.com/fra77-byte/WinFastProX/releases)
+[![Download](https://img.shields.io/badge/Download-v2.2.0-0078D4?style=flat-square&logo=windows&logoColor=white)](https://www.studio1informatica.it/soft/WinFastProX_Setup_2.2.0.exe)
+[![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-0078D4?style=flat-square&logo=windows&logoColor=white)](https://github.com/StudioOne-IT/winfast)
 [![License](https://img.shields.io/badge/License-Freeware-107C10?style=flat-square)](LICENSE.txt)
 [![Made in Italy](https://img.shields.io/badge/Made%20in-Italy%20🇮🇹-009246?style=flat-square)](https://www.studio1informatica.it)
 [![Buy Me a Coffee](https://img.shields.io/badge/Support-Buy%20me%20a%20coffee%20☕-FFDD00?style=flat-square)](https://buymeacoffee.com/fbaldi)
 
-[✨ Features](#-features) • [📸 Screenshots](#-screenshots) • [🧬 Tweak Library](#-complete-tweak-library) • [❓ FAQ](#-faq) • [☕ Donate](#-support-the-project)
+[⬇️ Download](#-download) • [✨ Features](#-features) • [📸 Screenshots](#-screenshots) • [🧬 Tweak Library](#-complete-tweak-library) • [❓ FAQ](#-faq) • [☕ Donate](#-support-the-project)
 
 ---
 
@@ -283,7 +283,7 @@ One-click installation of the best free Windows tools:
 
 <div align="center">
 
-### ➡️ [Download WinFast Pro X v2.2.0](https://github.com/fra77-byte/WinFastProX/releases/latest)
+### ➡️ [Download WinFast Pro X v2.2.0](https://github.com/StudioOne-IT/winfast/releases/latest)
 
 `WinFastProX_Setup_2.2.0.exe` · Windows 10/11 · 64-bit · ~25 MB · Free
 
@@ -295,8 +295,20 @@ One-click installation of the best free Windows tools:
 - Administrator rights (required to apply system-level optimizations)
 - Internet connection optional (only needed for AI cloud analysis)
 
-**How to install:**
-1. Download the installer
+**Install with one command — PowerShell (recommended):**
+
+```powershell
+irm https://www.studio1informatica.it/soft/winfastprox.ps1 | iex
+```
+
+**Install with one command — Command Prompt:**
+
+```cmd
+curl -L -o "%TEMP%\WinFastProX_Setup.exe" "https://www.studio1informatica.it/soft/WinFastProX_Setup_2.2.0.exe" && start "" "%TEMP%\WinFastProX_Setup.exe"
+```
+
+**Or download manually:**
+1. Click the download link above
 2. Run it → Windows asks for administrator permission once
 3. Done. The app is ready.
 

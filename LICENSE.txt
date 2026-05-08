@@ -1,8 +1,13 @@
 WinFast Pro X — FREEWARE LICENSE
 =================================
 
-Copyright © 2026 Francesco Baldi — Studio One Informatica
+Copyright © 2026 Francesco Baldi — Studio One Informatica Soc. Coop. a.r.l.
 All rights reserved.
+
+This software is NOT open source. The source code is proprietary and
+is NOT included in this repository or any release package.
+
+This repository contains documentation, assets and release files only.
 
 
 TERMS OF USE
@@ -21,12 +26,13 @@ PERMITTED USE
 
 You are free to:
 
- 1. Install and run the Software on any Windows computer.
+ 1. Download, install and run the Software on any Windows computer.
  2. Use the Software for personal, professional or business purposes.
- 3. Make backup copies of the Software for personal use.
+ 3. Make backup copies of the Software installation package for personal use.
  4. Share the original, unmodified installation package freely, provided
     that all copyright notices, this license and all references to the
     author remain intact.
+ 5. Link to the official download page or GitHub repository.
 
 
 NOT PERMITTED
@@ -34,14 +40,25 @@ NOT PERMITTED
 
 The following actions are expressly prohibited:
 
- 1. Modifying, decompiling, reverse engineering, disassembling or
-    extracting any part of the Software.
+ 1. Accessing, copying, modifying, decompiling, reverse engineering,
+    disassembling or extracting the source code of the Software.
  2. Removing, altering or obscuring copyright notices, author names,
     trademarks or references to the official website.
- 3. Redistributing modified or derivative versions of the Software.
+ 3. Creating or redistributing modified or derivative versions.
  4. Distributing the Software as part of paid packages, commercial
-    bundles, subscriptions or fee-based services.
+    bundles, subscriptions or fee-based services without written
+    permission from the author.
  5. Claiming authorship or misrepresenting the origin of the Software.
+ 6. Using the Software's name, logo or branding without written permission.
+
+
+SOURCE CODE
+-----------
+
+The source code of WinFast Pro X is proprietary. It is NOT available
+under any open source license. Source code inspection may be granted
+on a case-by-case basis to security researchers and trusted partners.
+Contact: francesco@studio1informatica.it
 
 
 DISCLAIMER OF WARRANTIES
@@ -88,13 +105,11 @@ exclusively on the user's local device. The Software requires no account,
 login or registration.
 
 The latency monitor performs ICMP ping requests to public hosts chosen by
-the user (default: well-known gaming servers and Cloudflare/Google DNS)
-solely for the purpose of measuring connection quality.
+the user solely for the purpose of measuring connection quality.
 
 The donation feature sends only the email address voluntarily provided
 by the user to the developer, for the sole purpose of delivering the
-promised gift. This address is never shared with third parties or used
-for marketing.
+promised gift. This address is never shared with third parties.
 
 
 DONATIONS AND DONOR GIFTS
@@ -104,15 +119,13 @@ The Software is and will remain free. Voluntary donations via the official
 Buy Me a Coffee channel are warmly welcomed and directly support continued
 development.
 
-As a thank-you, donors who complete a donation will receive — automatically
-or upon request — a gift of equal or greater value: a full license for
-Studio One AV, the developer's professional Windows security suite
-(antivirus, VPN, TOR browsing, integrated firewall), valid for 12 months
-on 2 devices.
+As a thank-you, donors will receive a free license for Studio One AV —
+the developer's professional Windows security suite (antivirus, VPN, TOR
+browsing, integrated firewall), valid for 12 months on 2 devices.
 
 Donations do not constitute a purchase of the Software, do not grant any
-additional rights over the Software itself, and do not alter the terms of
-this license.
+additional rights over the Software, and do not alter the terms of this
+license.
 
 
 GOVERNING LAW
@@ -130,8 +143,9 @@ Author:    Francesco Baldi
 Studio:    Studio One Informatica Soc. Coop. a.r.l.
 Website:   https://www.studio1informatica.it
 GitHub:    https://github.com/StudioOne-IT
+Download:  https://www.studio1informatica.it/soft/WinFastProX_Setup_2.2.0.exe
 Donations: https://buymeacoffee.com/fbaldi
 Email:     francesco@studio1informatica.it
 
 
-License version: 2.0 — 2026
+License version: 2.1 — 2026
